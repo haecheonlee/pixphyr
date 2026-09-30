@@ -1,2 +1,0 @@
-# pixphyr
-Published Pixphyr website
